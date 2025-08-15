@@ -1,8 +1,4 @@
- <h1 style="text-align: center;">
-      <h1 style="text-align: center;">
-           <img width= "12%" src="https://cdn-icons-png.flaticon.com/512/921/921490.png" alt="">
-    </h1>
-    </h1>
+
 
 <h1> The Planets 🌍</h1>
 
